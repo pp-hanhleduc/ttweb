@@ -29,7 +29,7 @@ const MobileMenu = () => {
             onClick={handleMenuClick}
             className="side-menu__toggler side-menu__close-btn"
           >
-            <img src={CloseBtn} alt="" />
+            <img src={CloseBtn.src} alt="" />
           </a>
         </div>
 
@@ -38,13 +38,10 @@ const MobileMenu = () => {
         </nav>
         <div className="side-menu__sep"></div>
         <div className="side-menu__content">
+          <p>TopTop - Nền tảng Đầu tư & Tích lũy Linh hoạt</p>
           <p>
-            Lorem Ipsum is simply dummy text the printing and setting industry.
-            Lorm Ipsum has been the industry's stanard dummy text ever.
-          </p>
-          <p>
-            <a href="mailto:needhelp@apton.com">needhelp@apton.com</a> <br />
-            <a href="tel:888-999-0000">888 999 0000</a>
+            <a href="mailto:info@toptop.vn">info@toptop.vn</a> <br />
+            <a href="tel:+84886019189">0886.019.189</a>
           </p>
           <div className="side-menu__social">
             <a href="#">

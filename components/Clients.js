@@ -37,43 +37,43 @@ const Clients = (props) => {
       <Container>
         <Swiper className="brand-one__carousel" {...params}>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage.src} alt="" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage.src} alt="" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage.src} alt="" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage.src} alt="" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage.src} alt="" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage.src} alt="" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage.src} alt="" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage.src} alt="" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage.src} alt="" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage.src} alt="" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage.src} alt="" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage.src} alt="" />
           </div>
           <div className="item">
-            <img src={BrandImage} alt="" />
+            <img src={BrandImage.src} alt="" />
           </div>
         </Swiper>
       </Container>

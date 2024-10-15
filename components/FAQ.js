@@ -7,7 +7,7 @@ import faqBG from "../assets/images/shapes/faq-bg-1-1.png";
 const FAQ = (props) => {
   return (
     <section className="faq-one">
-      <img src={faqBG} className="faq-one__bg-shape-1" alt="" />
+      <img src={faqBG.src} className="faq-one__bg-shape-1" alt="" />
       <Container>
         <BlockTitle
           textAlign="center"

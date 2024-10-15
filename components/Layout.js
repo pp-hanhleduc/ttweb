@@ -31,9 +31,9 @@ const Layout = (props) => {
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>{props.pageTitle}</title>
-        <link rel="apple-touch-icon" sizes="180x180" href={AppleTouch} />
-        <link rel="icon" type="image/png" sizes="32x32" href={Fevicon32} />
-        <link rel="icon" type="image/png" sizes="16x16" href={Fevicon16} />
+        <link rel="apple-touch-icon" sizes="180x180" href={AppleTouch.src} />
+        <link rel="icon" type="image/png" sizes="32x32" href={Fevicon32.src} />
+        <link rel="icon" type="image/png" sizes="16x16" href={Fevicon16.src} />
         <link
           href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap"
           rel="stylesheet"
