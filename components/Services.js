@@ -47,7 +47,7 @@ const Services = () => {
                 <div className="service-one__icon">
                   <i className="apton-icon-development1"></i>
                 </div>
-                <h3>Lãi xuất cạnh tranh</h3>
+                <h3>Lãi suất cạnh tranh</h3>
                 <p>
                   Thông tin rõ ràng, hiển thị lãi suất và chi phí minh bạch,
                   không phụ phí ẩn.
