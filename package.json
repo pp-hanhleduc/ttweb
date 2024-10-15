@@ -1,0 +1,25 @@
+{
+  "name": "apiton-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "next": "^14.2.14",
+    "next-images": "^1.4.0",
+    "react": "18.2.0",
+    "react-bootstrap": "^1.0.1",
+    "react-countup": "^4.3.3",
+    "react-dom": "18.2.0",
+    "react-id-swiper": "^4.0.0",
+    "react-modal-video": "^2.0.2",
+    "react-scroll": "^1.8.0",
+    "react-visibility-sensor": "^5.1.1",
+    "swiper": "^6.0.4"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
