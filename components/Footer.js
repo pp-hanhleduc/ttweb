@@ -37,6 +37,20 @@ const Footer = () => {
                   <p>
                     TopTop - Nền tảng Đầu tư & Tích lũy <br /> Linh hoạt
                   </p>
+                  <p>
+                    Một sản phẩm của:<br></br>
+                    <b>CÔNG TY CỔ PHẦN CÔNG NGHỆ BLUEFIN</b>
+                    <br></br>
+                    Địa chỉ:{" "}
+                    <b>
+                      14-15A, Tầng 7, Tòa nhà Charmvit, 117 Trần Duy Hưng, Quận
+                      Cầu Giấy, Hà Nội, Việt Nam
+                    </b>
+                    <br></br>
+                    Điện thoại: <b>+84 886.019.189</b>
+                    <br></br>
+                    Email: <b>app@toptop.vn</b>
+                  </p>
                 </div>
               </div>
 
